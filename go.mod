@@ -1,4 +1,4 @@
-module vangie/benchinit
+module github.com/vangie/benchinit
 
 go 1.11
 

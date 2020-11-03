@@ -1,4 +1,4 @@
-module mvdan.cc/benchinit
+module vangie/benchinit
 
 go 1.11
 
